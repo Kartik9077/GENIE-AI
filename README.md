@@ -12,7 +12,7 @@ Built with a sleek design, real-time API integration, and a seamless user experi
 
 ## 🚀 Live Demo
 
-👉 [https://genie-ai.vercel.app](genieaibykartik9077.netlify.app)
+👉 (genieaibykartik9077.netlify.app)
 
 ---
 
