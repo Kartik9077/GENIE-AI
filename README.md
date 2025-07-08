@@ -1,12 +1,53 @@
-# React + Vite
+# 🧞 Genie AI – Image Generation & AI Chat Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Genie AI is a modern AI-powered web app where you can:
+- 🖼️ Generate images from text prompts using AI
+- 📷 Upload any image and ask questions about it
+- 💬 Chat with the AI about your uploaded image
+- 🤖 Get smart responses in a friendly chat interface
 
-Currently, two official plugins are available:
+Built with a sleek design, real-time API integration, and a seamless user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [https://genie-ai.vercel.app](genieaibykartik9077.netlify.app)
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ **React** + **Vite** – blazing fast frontend
+- 🎨 **Tailwind CSS** – responsive and modern styling
+- 📡 **Hugging Face API** or **OpenAI** – image understanding / generation
+- 💬 **Custom Chat UI** – smooth conversation-like interface
+- ☁️ **Netlify** – deployment platform
+
+---
+
+## 📸 Features
+
+- ✅ Upload image and chat with AI about what's inside
+- ✅ Generate images from detailed text prompts
+- ✅ Intuitive and responsive chat interface
+- ✅ Clear user feedback and loading states
+- ✅ Fully responsive (desktop + mobile)
+
+---
+
+## 🖥️ Screenshots
+
+| Image Upload + Chat | Image Generation |
+|---------------------|------------------|
+| ![upload](./screenshots/upload.png) | ![generation](./screenshots/generation.png) |
+
+> _(Replace with actual screenshots in your project folder)_
+
+---
+
+## 🛠️ Getting Started (Run Locally)
+git clone https://github.com/kartik9077/GENIE-AI.git
+cd GENIE-AI
+npm install
+npm run dev
