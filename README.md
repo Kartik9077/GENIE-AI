@@ -12,7 +12,7 @@ Built with a sleek design, real-time API integration, and a seamless user experi
 
 ## 🚀 Live Demo
 
-👉 (genieaibykartik9077.netlify.app)
+👉 (https://genieaimadebykartiksharma.netlify.app/)
 
 ---
 
