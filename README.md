@@ -36,16 +36,6 @@ Built with a sleek design, real-time API integration, and a seamless user experi
 
 ---
 
-## 🖥️ Screenshots
-
-| Image Upload + Chat | Image Generation |
-|---------------------|------------------|
-| ![upload](./screenshots/upload.png) | ![generation](./screenshots/generation.png) |
-
-> _(Replace with actual screenshots in your project folder)_
-
----
-
 ## 🛠️ Getting Started (Run Locally)
 git clone https://github.com/kartik9077/GENIE-AI.git
 cd GENIE-AI
