@@ -1,7 +1,6 @@
 import { prevUser } from "./context/UserContext";
 
-const API_Url="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyBAcNKUrgQ1ky2l5zOa2rpwKo-Pn-omsOA" 
-
+const API_Url=YOUR_API
  export async function generateResponse(){
 
 
