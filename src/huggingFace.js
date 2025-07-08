@@ -7,7 +7,7 @@ export async function query(prompt) {
     {
       
       headers: {
-        Authorization: "Bearer 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",
+        Authorization: "Bearer YOUR_TOKEN",
         "Content-Type": "application/json",
       },
 	  method: "POST",
